@@ -1,0 +1,4 @@
+Documentation set was installed to Xcode!
+
+Path: /Users/eport/Library/Developer/Shared/Documentation/DocSets/com.corpsele.popprogressview.PopProgressView.docset
+Time: 2019-05-24 07:53:10 +0000
